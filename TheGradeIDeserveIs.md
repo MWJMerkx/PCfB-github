@@ -65,4 +65,4 @@
 
 #added file from pullrequest
 
-![merge](merge.png)
+![merge](/screenshots/merge.png)
