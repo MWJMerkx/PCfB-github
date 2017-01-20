@@ -62,3 +62,7 @@
 #Following other people
 
 ![follow](/screenshots/following.png)
+
+#added file from pullrequest
+
+![merge](/screenshots/merge.png)
