@@ -1,4 +1,4 @@
-![travis](https://travis-ci.org/MWJMerkx/PCfB-github.svg?branch=master)
+[![Build Status](https://travis-ci.org/MWJMerkx/PCfB-github.svg?branch=master)](https://travis-ci.org/MWJMerkx/PCfB-github)
 
 # test_set
 
