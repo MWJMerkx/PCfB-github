@@ -66,3 +66,7 @@
 #added file from pullrequest
 
 ![merge](/screenshots/merge.png)
+
+#added travis
+#tested test.py
+#seems to be ok.
