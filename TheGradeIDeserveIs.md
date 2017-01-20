@@ -54,3 +54,11 @@
 
 ![pull](/screenshots/pullrequest2.png)
 ![pull](/screenshots/pullrequest3.png)
+
+#created an issue on a repository I'm not a collaborator of
+
+![issue](screenshots/noncollaborationissue.png)
+
+#Following other people
+
+![follow](screenshots/following.png)
